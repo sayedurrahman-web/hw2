@@ -1,0 +1,27 @@
+.display{
+    margin: 0 auto;
+    width: 880px;
+    background-color: antiquewhite;
+}
+ nav ul{
+    list-style-type: none;
+    display: flex;
+    
+    justify-content: space-around;
+    border: 2px solid#db28a0;
+    background-color: #8b6a3e;
+    text-decoration: none;
+    font-size: 25px;
+   
+ }
+ 
+ li a:hover{
+color: antiquewhite;
+text-decoration: none;
+ }
+ .img{
+    display: flex;
+
+ }
+ 
+ 
